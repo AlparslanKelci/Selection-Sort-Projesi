@@ -60,6 +60,14 @@ Time Complexity = **O(n²)** şeklindedir. <br>
 
 ---
 
+# Selection Sort
+
+### Big-O gösterimi
+Selection sort:
+Time Complexity = **O(n²)** şeklindedir. <br>
+
+* n adet öğe için ***n(n+1)/2 = (n²+n)/2*** adet işlem yapılır dominant değer **n²**'dir.
+
 ## Selection sort adımları
 [7,3,5,8,2,9,4,15,6]  dizisinin selection sort'a göre ilk 4 adımı: <br>
 
