@@ -93,7 +93,7 @@ Adım - 4:
 
 ![Alparslan KELCİ](https://lh3.googleusercontent.com/a/ALm5wu1pYPsDvQWEiGDN4_5-kfp9v0HHO-jqfs2mDqXB3bU=s96-c-rg-br100)
 <br/>
-<<<<<<< HEAD
+
 [Alparslan KELCİ](https://github.com/AlparslanKelci "My github repository")
 =======
 [Alparslan KELCİ](https://github.com/AlparslanKelci "My github repository")
