@@ -88,6 +88,5 @@ Adım - 4:
 <br/>
 
 [Alparslan KELCİ](https://github.com/AlparslanKelci "My github repository")
-=======
-[Alparslan KELCİ](https://github.com/AlparslanKelci "My github repository")
+
 
