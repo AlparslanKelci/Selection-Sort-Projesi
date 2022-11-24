@@ -1,3 +1,5 @@
+![Ekran Görüntüsü](ss_20221124_140231.png)
+
 # Insertion Sort küçükten büyüğe sıralama
 
 ### Big-O gösterimi
