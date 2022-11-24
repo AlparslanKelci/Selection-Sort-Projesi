@@ -1,19 +1,4 @@
 # Insertion Sort küçükten büyüğe sıralama
-### İşlem Basamakları
-<ol>
-    <li>[22,27,16,2,18,6]</li>
-    <li>[22,16,27,2,18,6]</li>
-    <li>[16,22,27,2,18,6]</li>
-    <li>[16,22,2,27,18,6]</li>
-    <li>[16,2,22,27,18,6]</li>
-    <li>[2,16,22,27,18,6]</li>
-    <li>[2,16,22,18,27,6]</li>
-    <li>[2,16,18,22,27,6]</li>
-    <li>[2,16,18,22,6,27]</li>
-    <li>[2,16,18,6,22,27]</li>
-    <li>[2,16,6,18,22,27]</li>
-    <li>[2,6,16,18,22,27]</li>
-</ol>
 
 ### Big-O gösterimi
 Insertion sort:
@@ -75,6 +60,14 @@ Time Complexity = **O(n²)** şeklindedir. <br>
 
 ---
 
+# Selection Sort
+
+### Big-O gösterimi
+Selection sort:
+Time Complexity = **O(n²)** şeklindedir. <br>
+
+* n adet öğe için ***n(n+1)/2 = (n²+n)/2*** adet işlem yapılır dominant değer **n²**'dir.
+
 ## Selection sort adımları
 [7,3,5,8,2,9,4,15,6]  dizisinin selection sort'a göre ilk 4 adımı: <br>
 
@@ -93,4 +86,7 @@ Adım - 4:
 
 ![Alparslan KELCİ](https://lh3.googleusercontent.com/a/ALm5wu1pYPsDvQWEiGDN4_5-kfp9v0HHO-jqfs2mDqXB3bU=s96-c-rg-br100)
 <br/>
+
 [Alparslan KELCİ](https://github.com/AlparslanKelci "My github repository")
+
+
